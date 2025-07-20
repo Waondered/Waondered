@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Waonder! (ou Wander)
 
-<!--
-**Waondered/Waondered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎒 Atualmente realizando o curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Sul - Dom Paulo Evaristo Arns <br/> (Prestes a iniciar o 3° semestre)
+- 🗒️ Estou, atualmente, me aprofundando em NodeJS e acompanhando um curso online de estruturas de dados e algorítimos
+
+## Conhecimento em
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,nodejs,git)](https://skillicons.dev)
+ (e SQL)
+
+## Pretendo estudar as seguintes tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cs,react)](https://skillicons.dev)
