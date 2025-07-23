@@ -1,4 +1,4 @@
-## Olá! Eu sou o Waonder! (ou Wander)
+## Olá! Eu sou o Wander! (ou Waonder)
 
 
 
@@ -11,3 +11,6 @@
 
 ## Pretendo estudar as seguintes tecnologias
 [![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cs,react)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waondered&show_icons=true&theme=dark) <p margin-top= 20px>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waondered&layout=compact&hide=EJS&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <p/>
+
