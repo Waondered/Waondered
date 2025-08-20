@@ -1,8 +1,8 @@
-## Olá! Eu sou o Wander! (ou Waonder)
+## Olá! Eu sou o Wander!
 
 
 
-- 🎒 Atualmente realizando o curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Sul - Dom Paulo Evaristo Arns <br/> (Prestes a iniciar o 3° semestre)
+- 🎒 Atualmente realizando o curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Sul - Dom Paulo Evaristo Arns <br/> (3° semestre)
 - 🗒️ Estou, atualmente, me aprofundando em NodeJS e acompanhando um curso online de estruturas de dados e algorítimos
 
 ## Conhecimento em
