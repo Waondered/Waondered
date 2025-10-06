@@ -6,8 +6,7 @@
 - 🗒️ Estou me aprofundando em NodeJS e acompanhando um curso online de estruturas de dados e algorítimos
 
 ## Conhecimento em
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,nodejs,git)](https://skillicons.dev)
- (e SQL)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,java,spring,mysql,mongo,git)](https://skillicons.dev)
 
 ## Pretendo estudar as seguintes tecnologias
 [![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cs,react)](https://skillicons.dev)
