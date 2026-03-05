@@ -2,7 +2,7 @@
 
 
 
-- 🎒 Atualmente realizando o curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Sul - Dom Paulo Evaristo Arns <br/> (3° semestre)
+- 🎒 Atualmente realizando o curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Sul - Dom Paulo Evaristo Arns <br/> (4° semestre)
 - 🗒️ Estou me aprofundando em NodeJS e acompanhando um curso de estruturas de dados e algorítimos
 
 ## Conhecimento em
