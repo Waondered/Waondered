@@ -9,6 +9,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,java,spring,mysql,mongo,git,docker)](https://skillicons.dev)
 
 ## Pretendo estudar as seguintes tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,kotlin,cs,react)](https://skillicons.dev)
 
 
